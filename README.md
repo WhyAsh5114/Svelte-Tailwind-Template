@@ -1,3 +1,7 @@
-After cloning the repo just run ```npm install``` and then ```npm run dev```
+After cloning the repo run 
+* ```npm install```
+* ```npm install tailwindcss postcss autoprefixer```
+* ```npm run dev```
 
-Can start coding with tailwind and svelte setup already
+
+Setup complete, can start coding with svelte and tailwindcss
